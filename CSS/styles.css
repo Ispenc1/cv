@@ -1,0 +1,30 @@
+body{
+  background: gold;
+}
+body :hover{
+  background-color: red;
+}
+
+hr{
+  border-style: dashed solid;
+  border-color: green;
+  border-width: 1px;
+}
+
+
+.picture{
+  height: 100px;
+  width: 100px
+}
+.circular{
+border-radius: 100%;
+}
+
+h1 {
+  color: green;
+}
+
+
+.Bio:hover{
+color: blue;
+}
